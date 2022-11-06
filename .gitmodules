@@ -1,0 +1,9 @@
+[submodule "nlwCopaMobile"]
+	path = nlwCopaMobile
+	url = https://github.com/davimarcilio/nlwCopaMobile
+[submodule "nlwCopaServer"]
+	path = nlwCopaServer
+	url = https://github.com/davimarcilio/nlwCopaServer
+[submodule "nlwCopaWeb"]
+	path = nlwCopaWeb
+	url = https://github.com/davimarcilio/nlwCopaWeb
